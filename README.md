@@ -1,2 +1,5 @@
 # Hotel-Booking-System
-Software Engineering Project
+Software Engineering Project 
+# Group Members
+ALEX GITHINJI
+ARON KIPLANGAT
