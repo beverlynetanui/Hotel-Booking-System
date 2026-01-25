@@ -20,3 +20,5 @@ Documentation-Don,Beverlyne
 Design-Purity,Kilavi,Alex
 Jira management-Aron,Blair
 Requirements-Bruce,Pharel,Hezron
+Project repository URL
+https://github.com/beverlynetanui/Hotel-Booking-System
