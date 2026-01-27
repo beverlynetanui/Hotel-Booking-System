@@ -8,7 +8,7 @@
 5. HEZRON NYAKERUMA E020-01-0943/2023
 6. PURITY MUTEMI E020-01-2356/2022
 7. PHARREL MUGA E020-01-2145/2023
-8. Donald kosgei E020-01-2079/2023
+8. Donald Kosgei E020-01-2079/2023
 9. Kilavi Musyoki E020-01-0896/2023
 10. Beverlyne Tanui E020-01-0947/2023
 
@@ -17,7 +17,7 @@ The EliteStay Hotel Management System is an integrated web-based platform design
 
 ## Team Roles
 1. Documentation Lead
-Don,Beverlyne
+Donald,Beverlyne
 2. System Design
 Purity,Kilavi,Alex
 3. Jira project manager 
